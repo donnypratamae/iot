@@ -1,0 +1,11 @@
+sensor ultrasonic
+https://wokwi.com/projects/354813818513869825
+
+pengukur suhu
+https://wokwi.com/projects/354813626281554945
+
+keypad input
+https://wokwi.com/projects/355382155475273729
+
+lcd
+https://wokwi.com/projects/355382303436700673
